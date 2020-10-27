@@ -1,0 +1,28 @@
+body {
+    background-color: #fff2e0;
+    text-align: center;
+    font-family: serif;
+}
+
+.jumbotron {
+    background-image: url(https://static.wixstatic.com/media/412fbf_2f8f1292adde44659f62858ad0ff943e~mv2.jpg/v1/fill/w_740,h_555,al_c,q_90,usm_0.66_1.00_0.01/412fbf_2f8f1292adde44659f62858ad0ff943e~mv2.webp);
+    background-repeat: repeat;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+
+  h1 {
+      font-size: 250px;
+      color: black;   
+  }
+
+  .col-sm-4 {
+      color: tomato;
+      padding-left: 200px;
+      padding-right: 200px;
+      font-size: 30px;
+  }
+
+  
+
